@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;700&family=Noto+Sans+KR:wght@300;400;700&family=Orbitron&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font: 20px/1.5 "Montserrat", "Noto Sans KR", sans-serif;
+}
+
+li, ol, ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: rgba(222, 222, 222, 0.55);
+}
+
+button {
+  border: none;
+  background: none;
+}
